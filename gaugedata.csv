@@ -1,5 +1,5 @@
-rev_target;rev_actual;product
-80;34;A
-123;66;B
-75;90;C
-100;235;D
+rev_target,rev_actual,product
+80,34,A
+123,66,B
+75,90,C
+100,235,D
